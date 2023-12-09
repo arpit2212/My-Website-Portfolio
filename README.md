@@ -15,10 +15,6 @@ HTML5
 CSS3 
 JavaScript 
 
-How to Run Locally
-Clone this repository: git clone https://github.com/your-username/your-portfolio.git
-Navigate to the project directory: cd your-portfolio
-Open index.html in your preferred web browser.
 Contributing
 If you'd like to contribute, feel free to open an issue or submit a pull request. I'm open to suggestions, bug fixes, or any improvements you might have in mind.
 
